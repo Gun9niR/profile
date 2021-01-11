@@ -22,3 +22,13 @@ hr {
 .center {
     text-align: center;
 }
+
+.courseName {
+    display: inline-block;
+    width: 400px;
+}
+
+.courseID {
+    display: inline-block;
+    width: 55px;
+}
