@@ -32,3 +32,11 @@ hr {
     display: inline-block;
     width: 55px;
 }
+
+.faBlack {
+    color: black;
+}
+
+#steam {
+    margin-left: 10px;
+}
